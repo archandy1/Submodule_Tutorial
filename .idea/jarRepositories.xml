@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="nexus-ocean-tech-lastmile-com-snapshots" />
+      <option name="name" value="payments-snapshots" />
+      <option name="url" value="https://nexus.ocean.tech.lastmile.com/repository/maven-snapshot-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexus.ocado.tech/repository/maven-central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lastmile-releases" />
+      <option name="name" value="Lastmile Releases" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/repositories/lastmile-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-payments-psp" />
+      <option name="name" value="payments-releases-psp" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/repositories/payments-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sdhw-snapshots" />
+      <option name="name" value="dhw-snapshots" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/repositories/dhw-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="core-services-releases" />
+      <option name="name" value="Lastmile Releases" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/groups/core-services-releases-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="supplier-funding-snapshots" />
+      <option name="name" value="supplier-funding-snapshots" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/repositories/supplier-funding-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots-finance" />
+      <option name="name" value="finance-snapshots" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/groups/finance-snapshot-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots-payments" />
+      <option name="name" value="payments-snapshots" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/groups/payments-snapshot-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="legacy-maven-releases" />
+      <option name="name" value="legacy-maven-releases" />
+      <option name="url" value="https://nexus.ocado.tech/repository/legacy-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="supplier-funding-releases" />
+      <option name="name" value="supplier-funding-releases" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/repositories/supplier-funding-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-ocean-tech-lastmile-com-releases" />
+      <option name="name" value="payments-releases" />
+      <option name="url" value="https://nexus.ocean.tech.lastmile.com/repository/maven-release-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-finance" />
+      <option name="name" value="finance-release-group" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/groups/finance-release-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="customer-thirdparty" />
+      <option name="name" value="customer-thirdparty" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/groups/customer-release-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dhw-releases" />
+      <option name="name" value="dhw-releases" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/repositories/dhw-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-payments" />
+      <option name="name" value="payments-releases" />
+      <option name="url" value="http://maven.ocado.com/nexus/content/groups/payments-release-group/" />
+    </remote-repository>
+  </component>
+</project>
